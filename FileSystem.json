@@ -1,0 +1,1 @@
+{"current_directory": "/directory", "directories": {"/": {"directory": true, "directory2": true}, "/directory": {}, "/directory2": {"file.txt": true}}, "files": {"/directory2/file.txt": "'Hello. This is Palak Khuntia.'"}}
